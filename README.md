@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/prasadc377](https://github.com/prasadc377)]([https://github.com/prasadc377]
+- 👨‍💻 All of my projects are available at ([https://github.com/prasadc377]
 
 - 💬 Ask me about **Cloud and DevOps**
 
