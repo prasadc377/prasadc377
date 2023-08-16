@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasad Chavan</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/prasadc377/prasadc377/main/banner2.png"> </div>
 <h3 align="center">A passionate cloud engineer from India, Looking forward to explore my career as DevOps Engineer.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadc377&label=Profile%20views&color=0e75b6&style=flat" alt="prasadc377" /> </p>
 
